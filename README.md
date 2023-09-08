@@ -1,2 +1,1 @@
-# Content_Management_tool
-My task for Internship
+# Content_Management
